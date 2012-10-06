@@ -1,0 +1,1 @@
+This is Chrome Extension code for demonstrate hacking.
